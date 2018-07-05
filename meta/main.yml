@@ -1,0 +1,16 @@
+---
+dependencies:
+  - linuxhq.linuxhq
+galaxy_info:
+  role_name: phantomjs
+  author: tkimball83
+  description: RHEL/CentOS - Scriptable Headless Browser
+  license: GPLv3
+  min_ansible_version: 2.5
+  platforms:
+    - name: EL
+      versions:
+        - 7
+  galaxy_tags:
+    - phantomjs
+...
